@@ -4,6 +4,8 @@
 
 WandB project: https://wandb.ai/zberi23_ml/ml_davaleba_4
 
+WandB Report: https://wandb.ai/zberi23_ml/ml_davaleba_4/reports/FER2013-Facial-Expression-Recognition-Iterative-Architecture-Comparison--VmlldzoxNzI0NzkyOA
+
 ## TL;DR
 
 5 არქიტექტურა იტერაციულად, TinyCNN-დან ResNet18-მდე. ყოველ ნაბიჯზე specific პრობლემას ვაგვარებთ.
